@@ -1,0 +1,4 @@
+[submodule "olaris"]
+	path = olaris
+	url = https://github.com/fziviello/openserverless-task
+	branch = main
